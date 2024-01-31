@@ -1,0 +1,19 @@
+h1 {
+    font-size: 25px;
+    font-style: normal;
+    padding-top: 0;
+}
+
+h2 {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.paragrafo {
+    text-align: start;
+    margin-left: 0;
+}
+
+.texto-azul {
+    font-weight: normal;
+}

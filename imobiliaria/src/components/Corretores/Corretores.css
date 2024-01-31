@@ -1,0 +1,9 @@
+.corretores-subtitulo {
+    text-align: center;
+}
+
+.corretor-img {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

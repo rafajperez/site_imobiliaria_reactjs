@@ -1,0 +1,13 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    margin-top: 60px;
+    margin-bottom: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

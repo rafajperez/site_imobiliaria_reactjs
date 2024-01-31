@@ -1,0 +1,12 @@
+.contato h3 {
+    text-align: center;
+}
+
+.iframe {
+    display: flex;
+    justify-content: center;
+}
+
+.contato-p {
+    margin-left: 20px;
+}
